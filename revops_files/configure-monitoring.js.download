@@ -1,0 +1,3 @@
+!function(){window.performance&&window.performance.mark&&window.performance.mark("scriptStartTime");var t=/local.hubspot(qa)?.com/.test(document.location.hostname),e=/hs-sitesqa.com/.test(document.location.hostname);t||e||enviro.set("NEWRELIC_DEPLOYED",!0);if(window.newrelic)try{var o=window.self!==window.top;window.newrelic.setCustomAttribute("isIframe",o)}catch(t){window.newrelic.setCustomAttribute("isIframe","unknown")}}();
+
+//# sourceMappingURL=configure-monitoring.js.map
